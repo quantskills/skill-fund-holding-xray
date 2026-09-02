@@ -1,0 +1,4 @@
+panda_data==0.0.12
+pandas
+rich
+jinja2

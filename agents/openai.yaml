@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fund Holding X-Ray"
+  short_description: "Analyze an ETF or fund's implied holdings style and concentration"
+  default_prompt: "Use $skill-fund-holding-xray to analyze this fund's holdings, concentration, style, and risks."

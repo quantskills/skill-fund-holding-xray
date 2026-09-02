@@ -1,0 +1,11 @@
+# 凭证与虚拟环境（切勿提交）
+.env
+.venv/
+# Python 缓存
+__pycache__/
+# 本机辅助脚本与运行产物（报告输出）
+prep-demo.ps1
+fund_xray_*.html
+fund_xray_*.json
+examples/*.html
+examples/*.png
