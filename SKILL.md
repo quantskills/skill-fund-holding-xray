@@ -105,3 +105,7 @@ python test_fund_xray.py            # 116 断言：离线合成数据 + （有�
 - 权重为「数量 × 收盘价」估算值（成分接口不返回权重），与基金披露持仓权重存在口径差异。
 - 主题/风格分类是关键词粗映射，不替代指数编制方案；正式研究请核对招募说明书。
 - 成分接口不返回基金规模与净值，绝对持仓市值无法在本 skill 内闭环。
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.
